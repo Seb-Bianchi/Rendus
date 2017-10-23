@@ -7,7 +7,7 @@
 void print_alphabet_lowercase(void)
 {
 char lettre='a';
-	while(lettre != 'z')
+	while(lettre <= 'z')
 	{
 		printf("%c",lettre);
 		lettre++;
