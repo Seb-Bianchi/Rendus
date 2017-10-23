@@ -3,9 +3,9 @@
 *                            Rendu_03 - evaluation                            *
 *******************************************************************************
 
-ex01 -> success
+ex01 -> partial credit
 ex02 -> success
 ex03 -> success
 ex04 -> success
 
-TOTAL -> 8/8
+TOTAL -> 7/8
